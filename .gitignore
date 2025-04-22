@@ -1,5 +1,6 @@
 # Ignorar credenciales y secretos
 credenciales/
+.env
 scripts/token.json
 
 # Ignorar PDFs generados
