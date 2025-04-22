@@ -1,0 +1,14 @@
+{
+    "id": "2",
+    "nombre": "Mercedes",
+    "apellidos": "Martínez Salcedo",
+    "nif": "45281543V",
+    "fecha": "2024-05-29",
+    "entrada": "08:55",
+    "salida": "14:06",
+    "estado": "trabajado",
+    "firmado_por_pin": false,
+    "pin_usado": null,
+    "timestamp_firma": null,
+    "horas": 5.18
+}

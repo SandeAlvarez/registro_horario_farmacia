@@ -1,0 +1,14 @@
+{
+    "id": "3",
+    "nombre": "Ángela",
+    "apellidos": "López Ferreiro",
+    "nif": "78805527Y",
+    "fecha": "2024-10-24",
+    "entrada": "13:58",
+    "salida": "21:08",
+    "estado": "trabajado",
+    "firmado_por_pin": false,
+    "pin_usado": null,
+    "timestamp_firma": null,
+    "horas": 7.17
+}

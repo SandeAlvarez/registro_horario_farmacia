@@ -1,0 +1,14 @@
+{
+    "id": "4",
+    "nombre": "Adriana",
+    "apellidos": "Melgarejo Larrobla",
+    "nif": "49334486S",
+    "fecha": "2025-04-16",
+    "entrada": "09:26",
+    "salida": "12:30",
+    "estado": "trabajado",
+    "horas": 3.07,
+    "firmado_por_pin": true,
+    "pin_usado": 4444,
+    "timestamp_firma": "2025-04-16T13:03:55.563487"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "1",
+    "nombre": "Paula",
+    "apellidos": "Queiruga Figueiro",
+    "nif": "78799819W",
+    "fecha": "2025-03-31",
+    "entrada": "13:55",
+    "salida": "21:06",
+    "estado": "trabajado",
+    "firmado_por_pin": false,
+    "pin_usado": null,
+    "timestamp_firma": null,
+    "horas": 7.18
+}

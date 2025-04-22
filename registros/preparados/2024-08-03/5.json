@@ -1,0 +1,14 @@
+{
+    "id": "5",
+    "nombre": "Santiago",
+    "apellidos": "Labordeta Muiños",
+    "nif": "47389250G",
+    "fecha": "2024-08-03",
+    "entrada": "09:57",
+    "salida": "14:06",
+    "estado": "trabajado",
+    "firmado_por_pin": false,
+    "pin_usado": null,
+    "timestamp_firma": null,
+    "horas": 4.15
+}
