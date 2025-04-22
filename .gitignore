@@ -1,0 +1,6 @@
+# Ignorar credenciales y secretos
+credenciales/
+scripts/token.json
+
+# Ignorar PDFs generados
+pdfs/
